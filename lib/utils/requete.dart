@@ -5,7 +5,7 @@ class Requete extends GetConnect {
   //static String url = "http://10.0.2.2:8080";
   //static String url = "http://192.168.1.89:8080";
   //static String url = "http://localhost:8080";
-  static String url = "https://linafoot-d19a287c9c29.herokuapp.com";
+  static String url = "https://mylinafootbackendserveur-9c1d6014e77f.herokuapp.com";
   //https://linafoot-d19a287c9c29.herokuapp.com/
   //http://192.168.0.102/
   Future<Response> getE(String path) async {
